@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vert_simple/core/core.dart';
 
-import '../utils/extensions/responsive_extension.dart';
+import '../core.dart';
 
 class ButtonComponent extends StatelessWidget {
   final bool enabled;
