@@ -6,6 +6,7 @@ class AppColors {
   static const Color tertiary = Color(0xFF00747a);
   static const Color light = Color(0xFFffffff);
   static const Color backgroundColor = Color(0xFF135667);
+  static const Color backgroundColorSystem = Color.fromARGB(255, 243, 242, 242);
 
   static const Color danger = Color(0xFFEF5350);
 

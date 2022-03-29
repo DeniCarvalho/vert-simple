@@ -1,5 +1,5 @@
 name: vert_simple
-description: O jogo de cartas mais criativo no mundo agora no seu celular.
+description: App vert
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_localizations:
-   sdk: flutter
+    sdk: flutter
 
   cupertino_icons: ^1.0.2
   flutter_native_splash: ^1.3.2
@@ -36,6 +36,9 @@ dependencies:
   lottie: ^1.1.0
   rive: ^0.8.1
   responsive_builder: ^0.4.1
+  intl: ^0.17.0
+  table_calendar: ^3.0.5
+  dio: ^4.0.4
 
 dev_dependencies:
   flutter_test:

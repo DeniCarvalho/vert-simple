@@ -1,10 +1,11 @@
 {
-    "welcome": "Welcome",
-    "email": "E-email",
-    "password": "Password",
-    "signIn": "Sign in",
-    "accessWith": "Or access with",
-    "required": "Required field",
-    "invalidEmail": "Invalid email",
-    "forgotYourPassword": "Forgot your password?"
+  "welcome": "Welcome",
+  "email": "E-email",
+  "password": "Password",
+  "signIn": "Sign in",
+  "accessWith": "Or access with",
+  "required": "Required field",
+  "invalidEmail": "Invalid email",
+  "forgotYourPassword": "Forgot your password?",
+  "newEvent": "New event"
 }

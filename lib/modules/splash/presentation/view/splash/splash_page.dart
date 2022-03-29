@@ -43,7 +43,7 @@ class _SplashPageState extends State<SplashPage> with PostFrameMixin {
     setState(() => startAnimation = true);
 
     await Future.delayed(const Duration(milliseconds: 500));
-    Nav.navigate(SplashRoutes.login);
+    Nav.navigate(SplashRoutes.home);
     SystemChrome.restoreSystemUIOverlays();
   }
 

@@ -1,11 +1,12 @@
 {
-    "welcome": "Bem-vindo(a)",
-    "email": "E-mail",
-    "password": "Senha",
-    "signIn": "Entrar",
-    "accessWith": "Ou acessar com",
-    "required": "Campo obrigatório",
-    "invalidEmail": "E-mail inválido",
-    "office365": "Office 365",
-    "forgotYourPassword": "Esqueceu sua senha?"
+  "welcome": "Bem-vindo(a)",
+  "email": "E-mail",
+  "password": "Senha",
+  "signIn": "Entrar",
+  "accessWith": "Ou acessar com",
+  "required": "Campo obrigatório",
+  "invalidEmail": "E-mail inválido",
+  "office365": "Office 365",
+  "forgotYourPassword": "Esqueceu sua senha?",
+  "newEvent": "Novo evento"
 }
